@@ -1,4 +1,4 @@
-# Le sens du Néoisme?!
+# [Le sens du Néoisme?!](https://sofianaudry.com/fr/creation/le-sens-du-neoisme/)
 
 ## Les auteurs
 Programmation: Sofian Audry 
@@ -13,5 +13,7 @@ Assistance Technique: Matthew Loewen
 
 Soutien financier de [University of Maine](https://umaine.edu/)
 
-## 
+## Dates 
+
+Cré
 
