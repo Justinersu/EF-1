@@ -1,5 +1,7 @@
 
-# [La partition des corps](http://www.manuelchantre.com/fr/la-partition-des-corps/)
+# La partition des corps
+
+http://www.manuelchantre.com/fr/la-partition-des-corps/
 
 ## L'auteur
 
