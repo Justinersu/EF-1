@@ -37,7 +37,7 @@ Des papiers à bulle se sutie dessous les 40 vinyles et un haut-parleur. C'est l
 
 ### L'intention de l'auteur
 
-Chantre souhaite transmettre un sentiment de nostalgie au public à travers la musique, « une réflexion sur le temps qui passe ». Il souhaite aussi faire revivre notre jeunesse intérieure avec la sensation satisfaisante du papier plastique qui éclate et les mélodies de nos enfances. « C'est un geste drôle, violent et naïf en même temps » dit Manuel Chantre. Il croit que la musique est plus qu'un média de divertissement, elle nous permet d'exprimer nos émotions et nous faire rappeler des souvenirs. 
+Chantre souhaite transmettre un sentiment de nostalgie au public à travers la musique, « une réflexion sur le temps qui passe ». Il souhaite aussi faire revivre notre jeunesse intérieure avec la sensation satisfaisante du papier plastique qui éclate et les mélodies de nos enfances. Il croit que la musique est plus qu'un média de divertissement, elle nous permet d'exprimer nos émotions et nous faire rappeler des souvenirs. 
 
 ### Public cible
 
@@ -64,8 +64,8 @@ Dimensions: 50 x 33 x 40.5 cm / 19 x 13 x 16 pouces
 
 ## La composante centrale
 
-
+L'élément clé qui caractérise cette oeuvre, c'est l'interaction du public avec le papier à bulle, qui active le son des vinyls. Chantre explique que cette interaction est [« [...] un geste drôle, violent et naïf en même temps »](http://www.manuelchantre.com/wp-content/uploads/2018/02/l-art-de-la-musi.pdf) . Elle reproduit notre nostalgie et curiosité de l'enfance. C'est un geste aussi satisfaisant qui contribue alors à l'engagement du public. Le papier à bulle est un élément original de l'oeuvre qui vise à remplacer l'interupteur qu'on rencontre souvent. De ce fait, cela se démarque de ce qu'on voit communément dans les oeuvres multimédias.
 
 ## Appréciation personnelle
 
-
+J'ai choisi cette oeuvre dès le moment où j'ai remarqué qu'on y intégrait la musique. Je peux m'identifier avec cet aspect, car la musique est un média que j'apprécie beaucoup et qui affecte énormément mes émotions.
