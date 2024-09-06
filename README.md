@@ -22,10 +22,13 @@ Exhibition:  Centre d’art Diane-Dufresne, Repentigny
 > "Je souhaite que les musiques provoquent le rappel de souvenirs associés à ces musiques. Des souvenirs qui appartiennent au public, au visage transparent et aux anciens propriétaires de vinyls" <br><br>*Manuel Chantre*
   
 L’œuvre est constituée de quarante disques de vinyls trouvés.
+![vinyls](./images/installation_03.jpg)
 
 Au centre de l'exposition, la sculpture d'une tête transparente trône.
+![vinyls](./images/installation_02.jpg)
 
 Des papiers à bulle se sutie dessous les 40 vinyles et un haut-parleur. C'est là que l'interactivité s'établie. Les visiteurs sont alors encouragés à éclater les bulles. De cet acte, ils déclenchent la musique qui provient de différentes époques. 
+![vinyls](./images/installation_01.jpg)
 
 ### Aspects techniques
 - Vinyls (rouge, mauve, orange, jaune)
