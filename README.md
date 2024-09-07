@@ -23,15 +23,15 @@ http://www.manuelchantre.com/fr/la-partition-des-corps/
 
 ![vinyls](./images/installation_03.jpg)
   
-L’œuvre est constituée de quarante disques de vinyls trouvés.
+L’œuvre est constituée de quarante disques de vinyls trouvés, puis troués et supsendus au plafond à compagnie d'haut-parleurs.
 
 ![vinyls](./images/installation_05.jpg)
 
-Au centre de l'exposition, la sculpture d'une tête transparente trône.
+Au centre de l'exposition, la sculpture d'une tête transparente trône, composée de plusieurs couches.
 
 ![vinyls](./images/installation_02.jpg)
 
-Des papiers à bulle se sutie dessous les 40 vinyles et un haut-parleur. C'est là que l'interactivité s'établie. Les visiteurs sont alors encouragés à éclater les bulles. De cet acte, ils déclenchent la musique qui provient de différentes époques. 
+Des papiers à bulle se sutie dessous les 40 vinyles et haut-parleurs. C'est là que l'interactivité s'établit. Les visiteurs sont alors encouragés à éclater les bulles. De cet acte, ils déclenchent la musique qui provient de différentes époques. Avec les gestes de tous les visiteurs, une harmonie musicale se crée dans la pièce.
 
 ![vinyls](./images/installation_01.jpg)
 
@@ -48,7 +48,7 @@ Cette oeuvre vise à cibler les adultes, principalement ceux nés à l'âge du d
 L'oeuvre a été développée à partir de vieux vinyls que Chantre a trouvé, posés en bordure de la route pour les donner.
 
 ### Aspects techniques
-**Les vinyls**
+**L'installation**
 - Vinyls (rouge, mauve, orange, jaune)
 - Ordinateur
 - Logiciel interactif multimédia
@@ -68,4 +68,4 @@ L'élément clé qui caractérise cette oeuvre, c'est l'interaction du public av
 
 ## Appréciation personnelle
 
-J'ai choisi cette oeuvre dès le moment où j'ai remarqué qu'on y intégrait la musique. Je peux m'identifier avec cet aspect, car la musique est un média que j'apprécie beaucoup et qui affecte énormément mes émotions.
+J'ai choisi cette oeuvre dès que j'ai remarqué l'intégration de la musique. Je peux m'identifier avec cet aspect, car la musique est un média que j'apprécie énormément et qui influence profondément mes émotions. De plus, j'aime beaucoup l'oeuvre puisque qu'elle intègre de nombreux éléments originaux. Par exemple, le papier à bulle pour activer le son et le mélange innovant de différentes techniques, telles que la sculpture acrylique, l'interactivité sonore et le projet de type DIY avec les vinyls. Le message transmit par l'œuvre est également très beau et inspirant.
